@@ -1,0 +1,86 @@
+2024-04-13 22:44:58,172 [restartedMain] INFO  in.wolf.Application                                - Starting Application using Java 17.0.5 with PID 4264 (C:\Users\2139086\OneDrive - Cognizant\Desktop\java spring boot realtime project\projects\01-SB-Logging-App\01-SB-Logging-App\target\classes started by 2139086 in C:\Users\2139086\OneDrive - Cognizant\Desktop\java spring boot realtime project\projects\01-SB-Logging-App\01-SB-Logging-App)
+2024-04-13 22:44:58,175 [restartedMain] INFO  in.wolf.Application                                - No active profile set, falling back to 1 default profile: "default"
+2024-04-13 22:44:58,246 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 22:44:58,247 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 22:45:00,176 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8080 (http)
+2024-04-13 22:45:00,191 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 22:45:00,195 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-04-13 22:45:00,195 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-13 22:45:00,293 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-04-13 22:45:00,293 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 2046 ms
+2024-04-13 22:45:00,901 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2024-04-13 22:45:00,920 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-13 22:45:00,955 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8080 (http) with context path ''
+2024-04-13 22:45:00,969 [restartedMain] INFO  in.wolf.Application                                - Started Application in 3.312 seconds (process running for 4.386)
+2024-04-13 22:45:05,856 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-13 22:45:05,856 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2024-04-13 22:45:05,857 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 0 ms
+2024-04-13 22:45:05,903 [http-nio-8080-exec-1] INFO  in.wolf.service.MessageService                     - getWelcomeMessage()-- started
+2024-04-13 22:45:05,903 [http-nio-8080-exec-1] INFO  in.wolf.service.MessageService                     - getWelcomeMessage()-- ended
+2024-04-13 22:45:05,903 [http-nio-8080-exec-1] WARN  in.wolf.service.MessageService                     - this warn msg
+2024-04-13 22:45:05,904 [http-nio-8080-exec-1] ERROR in.wolf.service.MessageService                     - this is error msg
+2024-04-13 22:56:46,988 [restartedMain] INFO  in.wolf.Application                                - Starting Application using Java 17.0.5 with PID 16168 (C:\Users\2139086\OneDrive - Cognizant\Desktop\java spring boot realtime project\projects\01-SB-Logging-App\01-SB-Logging-App\target\classes started by 2139086 in C:\Users\2139086\OneDrive - Cognizant\Desktop\java spring boot realtime project\projects\01-SB-Logging-App\01-SB-Logging-App)
+2024-04-13 22:56:46,992 [restartedMain] INFO  in.wolf.Application                                - No active profile set, falling back to 1 default profile: "default"
+2024-04-13 22:56:47,075 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 22:56:47,076 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 22:56:49,009 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8080 (http)
+2024-04-13 22:56:49,034 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 22:56:49,039 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-04-13 22:56:49,039 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-13 22:56:49,134 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-04-13 22:56:49,135 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 2057 ms
+2024-04-13 22:56:49,852 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2024-04-13 22:56:49,876 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-13 22:56:49,924 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8080 (http) with context path ''
+2024-04-13 22:56:49,942 [restartedMain] INFO  in.wolf.Application                                - Started Application in 3.451 seconds (process running for 4.435)
+2024-04-13 22:56:59,981 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-13 22:56:59,981 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2024-04-13 22:56:59,982 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2024-04-13 22:57:00,039 [http-nio-8080-exec-1] INFO  in.wolf.service.MessageService                     - getWelcomeMessage()-- started
+2024-04-13 22:57:00,039 [http-nio-8080-exec-1] INFO  in.wolf.service.MessageService                     - getWelcomeMessage()-- ended
+2024-04-13 22:57:00,039 [http-nio-8080-exec-1] WARN  in.wolf.service.MessageService                     - this warn msg
+2024-04-13 22:57:00,039 [http-nio-8080-exec-1] ERROR in.wolf.service.MessageService                     - this is error msg
+2024-04-13 22:57:51,485 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-13 22:57:51,491 [Thread-5] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8080"]
+2024-04-13 22:57:51,589 [restartedMain] INFO  in.wolf.Application                                - Starting Application using Java 17.0.5 with PID 16168 (C:\Users\2139086\OneDrive - Cognizant\Desktop\java spring boot realtime project\projects\01-SB-Logging-App\01-SB-Logging-App\target\classes started by 2139086 in C:\Users\2139086\OneDrive - Cognizant\Desktop\java spring boot realtime project\projects\01-SB-Logging-App\01-SB-Logging-App)
+2024-04-13 22:57:51,589 [restartedMain] INFO  in.wolf.Application                                - No active profile set, falling back to 1 default profile: "default"
+2024-04-13 22:57:51,944 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8080 (http)
+2024-04-13 22:57:51,945 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 22:57:51,946 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-04-13 22:57:51,946 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-13 22:57:51,977 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-04-13 22:57:51,977 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 384 ms
+2024-04-13 22:57:52,142 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2024-04-13 22:57:52,149 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-13 22:57:52,155 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8080 (http) with context path ''
+2024-04-13 22:57:52,159 [restartedMain] INFO  in.wolf.Application                                - Started Application in 0.614 seconds (process running for 66.652)
+2024-04-13 22:57:52,162 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2024-04-13 22:57:53,872 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-13 22:57:53,872 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2024-04-13 22:57:53,873 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2024-04-13 22:57:53,874 [http-nio-8080-exec-1] INFO  in.wolf.service.MessageService                     - getWelcomeMessage()-- started
+2024-04-13 22:57:53,875 [http-nio-8080-exec-1] INFO  in.wolf.service.MessageService                     - getWelcomeMessage()-- ended
+2024-04-13 22:57:53,875 [http-nio-8080-exec-1] WARN  in.wolf.service.MessageService                     - this warn msg
+2024-04-13 22:57:53,875 [http-nio-8080-exec-1] ERROR in.wolf.service.MessageService                     - this is error msg
+2024-04-13 22:58:03,770 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-13 22:58:03,771 [Thread-7] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8080"]
+2024-04-13 22:58:03,862 [restartedMain] INFO  in.wolf.Application                                - Starting Application using Java 17.0.5 with PID 16168 (C:\Users\2139086\OneDrive - Cognizant\Desktop\java spring boot realtime project\projects\01-SB-Logging-App\01-SB-Logging-App\target\classes started by 2139086 in C:\Users\2139086\OneDrive - Cognizant\Desktop\java spring boot realtime project\projects\01-SB-Logging-App\01-SB-Logging-App)
+2024-04-13 22:58:03,863 [restartedMain] INFO  in.wolf.Application                                - No active profile set, falling back to 1 default profile: "default"
+2024-04-13 22:58:04,174 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8080 (http)
+2024-04-13 22:58:04,176 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 22:58:04,176 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-04-13 22:58:04,176 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-13 22:58:04,206 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-04-13 22:58:04,207 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 340 ms
+2024-04-13 22:58:04,327 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2024-04-13 22:58:04,331 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-13 22:58:04,338 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8080 (http) with context path ''
+2024-04-13 22:58:04,343 [restartedMain] INFO  in.wolf.Application                                - Started Application in 0.517 seconds (process running for 78.837)
+2024-04-13 22:58:04,345 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2024-04-13 22:58:04,397 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-13 22:58:04,397 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2024-04-13 22:58:04,398 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 1 ms
+2024-04-13 22:58:04,399 [http-nio-8080-exec-1] INFO  in.wolf.service.MessageService                     - getWelcomeMessage()-- started
+2024-04-13 22:58:04,399 [http-nio-8080-exec-1] INFO  in.wolf.service.MessageService                     - getWelcomeMessage()-- ended
+2024-04-13 22:58:04,399 [http-nio-8080-exec-1] WARN  in.wolf.service.MessageService                     - this warn msg
+2024-04-13 22:58:04,399 [http-nio-8080-exec-1] ERROR in.wolf.service.MessageService                     - this is error msg
